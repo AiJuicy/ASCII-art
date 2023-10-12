@@ -32,19 +32,7 @@ Finally, you can run the compiled program using:👇
 It is compatible with various operating systems, including Kali Linux, and has been tested successfully on Termux. Before running it on Termux, ensure that you have zoomed out your Termux view to a smaller size to prevent any potential errors and ensure smooth execution while maintaining visibility of all elements.
 
 Overall This is a C program that generates an ASCII art animation. It uses various mathematical functions and ANSI escape codes to display the animation. If you encounter any issues, make sure you have Termux set up correctly and have Clang installed. Additionally, check for any syntax errors in the C code.
- # ASCII Art License - Version 2.8
-
-This ASCII art is provided for personal, non-commercial use only.
-
-Modification, commercial use, and redistribution are strictly prohibited.
-
-By using this ASCII art, you agree to abide by these terms.
-
-Any unauthorized use, modification, or distribution may result in legal action.
-© AiJuicy Victor ile
-
-# © AiJuicy Victor ile
-
+ 
 
 # Actor Ai Juicy Victor Ile 
 Subscribe my YouTube channel 
